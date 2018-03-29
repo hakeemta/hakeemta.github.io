@@ -1,0 +1,21 @@
+.sidebar .heading .title {
+    bottom: 20px;
+}
+
+h2 {
+    font-size: 20pt;
+    line-height: 32pt;
+}
+
+.section .section-wrapper h2 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.section .section-wrapper .section-icon {
+    margin-top: 25px;
+}
+
+.section .fa {
+    font-size: 25pt;
+}
