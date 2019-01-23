@@ -19,3 +19,12 @@ h2 {
 .section .fa {
     font-size: 25pt;
 }
+
+h3 a span {
+    text-decoration: underline;
+    color: #5da4d9 !important;
+}
+
+.custom-content-wrapper span {
+    color: #767270;
+}
